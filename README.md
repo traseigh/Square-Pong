@@ -1,5 +1,4 @@
-# The following code contains a Ping Pong played against the AI
+# Pygame Ping Pong played with AI
 
 
-#The main code is within main.py which contains all the classes
 
