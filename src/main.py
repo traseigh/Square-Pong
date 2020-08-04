@@ -8,7 +8,7 @@ from random import randint
 import pygame
 from pygame.constants import MOUSEBUTTONDOWN
 
-
+import requests
 
 class Ball(pygame.sprite.Sprite):
     #This sprite class represents the ball
